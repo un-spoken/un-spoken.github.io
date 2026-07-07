@@ -1,10 +1,10 @@
 # 基础配置
-baseURL: 'https://wujin-master.github.io/'
+baseURL: 'https://un-spoken.github.io/'
 languageCode: 'zh-cn'
 # Note: This title is overridden by the title in i18n config file
 title: '吴进的个人站'
 
-theme: 'hugo-theme-stack-4.0.0-alpha.2'
+theme: 'hugo-theme-stack-4.0.3'
 
 DefaultContentLanguage: zh-cn #en 
 

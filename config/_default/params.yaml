@@ -23,12 +23,12 @@ widgets:
     - type: taxonomy
       params:
         limit: 10
-        type: tags
+        taxonomy: tags
         icon: tag
     - type: taxonomy
       params:
         limit: 10
-        type: categories
+        taxonomy: categories
         icon: categories
   page:
     - type: toc

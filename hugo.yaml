@@ -1,5 +1,5 @@
 # 基础配置
-baseURL: 'https://wujin-master.github.io/'
+baseURL: 'https://un-spoken.github.io/'
 languageCode: 'zh-CN'
 title: '吴进的个人站'
 theme: 'hugo-theme-stack-4.0.0-alpha.2'

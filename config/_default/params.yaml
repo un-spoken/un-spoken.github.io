@@ -11,7 +11,7 @@ sidebar:
   avatar: img/wujin-master.jpg
 
 comments:
-  enabled: true
+  enabled: false
   provider: disqus
 
 widgets:

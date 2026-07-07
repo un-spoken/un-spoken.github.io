@@ -11,8 +11,21 @@ sidebar:
   avatar: img/wujin-master.jpg
 
 comments:
-  enabled: false
-  provider: disqus
+  enabled: true
+  provider: giscus
+
+  giscus:
+    repo: "un-spoken/un-spoken.github.io"
+    repoId: "R_kgDOKvGc7Q"
+    category: "General"
+    categoryId: "DIC_kwDOKvGc7c4DAq0I"
+    mapping: "pathname"
+    reactionsEnabled: 1
+    emitMetadata: 0
+    inputPosition: "top"
+    lightTheme: "light"
+    darkTheme: "dark_dimmed"
+    lang: "zh-CN"
 
 widgets:
   homepage:
